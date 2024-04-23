@@ -4,8 +4,8 @@
 #include <stdint.h>
 
 #define PLAYER_SYMBOL 'j'
-#define TREASURE_SYMBOL 't'
-#define TRAP_SYMBOL 'x'
+#define TREASURE_SYMBOL ' '
+#define TRAP_SYMBOL ' '
 #define PIRATE_SYMBOL 'p'
 #define EMPTY_SYMBOL ' '
 
